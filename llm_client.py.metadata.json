@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_OTHER",
+  "summary": "LLM client module with bug fix (message.content not message[\"content\"]), input sanitisation, and proper error handling",
+  "updatedAt": "2026-06-08T05:40:08.301453700Z"
+}

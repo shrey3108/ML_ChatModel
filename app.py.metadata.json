@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_OTHER",
+  "summary": "Refactored app.py with clean UI layer, proper caching, error handling, and sidebar settings",
+  "updatedAt": "2026-06-08T05:40:31.484304800Z"
+}

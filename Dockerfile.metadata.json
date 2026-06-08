@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_OTHER",
+  "summary": "Multi-stage Dockerfile with non-root user, health check, and proper environment configuration for production deployment",
+  "updatedAt": "2026-06-08T05:41:12.141337800Z"
+}

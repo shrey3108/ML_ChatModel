@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_OTHER",
+  "summary": "Comprehensive unit tests for Retriever and Embedder covering edge cases, error conditions, and correctness",
+  "updatedAt": "2026-06-08T05:40:51.740098700Z"
+}
